@@ -3,6 +3,7 @@
 Implemented a comprehensive Business Intelligence (BI) solution to address the sales data management challenges faced by Axon, a company specializing in classic car sales. 
 The primary goal was to enhance data analysis capabilities and support informed decision-making processes.
 The project involved leveraging Microsoft PowerBI and SQL to integrate, clean, and analyze sales data from various sources, including MySQL databases. Key components included data extraction, transformation, visualization, and advanced analytics.
+
 **Key Achievements:**
 Successfully developed and deployed a BI solution that streamlined sales data management and analysis processes.
 Implemented automated data extraction and cleaning procedures to ensure data accuracy and consistency.
